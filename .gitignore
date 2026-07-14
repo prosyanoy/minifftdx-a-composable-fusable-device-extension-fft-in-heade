@@ -1,0 +1,16 @@
+build*/
+out/
+cmake-build-*/
+.cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.o
+*.a
+*.so
+*.ncu-rep
+bench/results/
